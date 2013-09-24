@@ -1,5 +1,3 @@
-'use strict';
-
 // Declare app level module with routes
 var app = angular.module('fabLab', [], function($routeProvider) {
     $routeProvider.when('/', {

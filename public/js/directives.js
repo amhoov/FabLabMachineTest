@@ -1,5 +1,3 @@
-'use strict';
-
 var VIEW_NAME_REGEX = new RegExp(/[a-zA-Z_]+[a-z]/g),
 dragOps = {
     addClass: false,

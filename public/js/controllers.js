@@ -1,5 +1,3 @@
-'use strict';
-
 // Each machine with each view and locations of parts (in percent). Location taken from top-left.
 var machines = [
         {name: 'Bandsaw',
